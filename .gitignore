@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+./Pascal-art/*
+
 # C extensions
 *.so
 
